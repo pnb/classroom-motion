@@ -5,7 +5,7 @@ Methodological details are available in this paper:
 
 Bosch, N., Mills, C., Wammes, J. D., & Smilek, D. (2018). _Quantifying classroom instructor dynamics with computer vision_. In C. Rosé, R. Martínez-Maldonado, H. U. Hoppe, R. Luckin, M. Mavrikis, K. Porayska-Pomsta, ... B. du Boulay (Eds.), Proceedings of the 19th International Conference on Artificial Intelligence in Education (AIED 2018) (pp. 30-42). Cham, CH: Springer.
 
-PDF available here: https://pnigel.com/publications.php
+PDF available here: https://pnigel.com/publications.html
 
 ## Requirements
 * Python 3.6
